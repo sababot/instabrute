@@ -1,5 +1,5 @@
-# brig
-instagram brute force tool
+# Instabrute
+Instagram brute force tool. It uses the chromedriver to control a chrome session and automatically login. This is extremely impractical and an update is being worked on where the use of tor helps decrease speeds significantly.
 
 # dependancies
 - python
